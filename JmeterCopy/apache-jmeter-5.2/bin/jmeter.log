@@ -1,0 +1,40 @@
+2021-05-22 17:08:42,234 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2021-05-22 17:08:42,264 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2021-05-22 17:08:42,265 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2021-05-22 17:08:42,266 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2021-05-22 17:08:42,266 INFO o.a.j.JMeter: Version 5.2.1
+2021-05-22 17:08:42,266 INFO o.a.j.JMeter: java.version=11.0.10
+2021-05-22 17:08:42,266 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2021-05-22 17:08:42,266 INFO o.a.j.JMeter: os.name=Mac OS X
+2021-05-22 17:08:42,266 INFO o.a.j.JMeter: os.arch=x86_64
+2021-05-22 17:08:42,266 INFO o.a.j.JMeter: os.version=10.15.7
+2021-05-22 17:08:42,266 INFO o.a.j.JMeter: file.encoding=UTF-8
+2021-05-22 17:08:42,267 INFO o.a.j.JMeter: java.awt.headless=true
+2021-05-22 17:08:42,267 INFO o.a.j.JMeter: Max memory     =1073741824
+2021-05-22 17:08:42,267 INFO o.a.j.JMeter: Available Processors =12
+2021-05-22 17:08:42,276 INFO o.a.j.JMeter: Default Locale=English (EN)
+2021-05-22 17:08:42,277 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2021-05-22 17:08:42,277 INFO o.a.j.JMeter: JMeterHome=/Users/dilipkumar/StreamLitPOC/apache-jmeter-5.2
+2021-05-22 17:08:42,277 INFO o.a.j.JMeter: user.dir  =/Users/dilipkumar/StreamLitPOC/apache-jmeter-5.2/bin
+2021-05-22 17:08:42,277 INFO o.a.j.JMeter: PWD       =/Users/dilipkumar/StreamLitPOC/apache-jmeter-5.2/bin
+2021-05-22 17:08:42,279 INFO o.a.j.JMeter: IP: 127.0.0.1 Name: IN-DILIPK-MBP.local FullName: localhost
+2021-05-22 17:08:42,286 INFO o.a.j.s.FileServer: Default base='/Users/dilipkumar/StreamLitPOC/apache-jmeter-5.2/bin'
+2021-05-22 17:08:42,288 INFO o.a.j.s.FileServer: Set new base='/Users/dilipkumar/StreamLitPOC'
+2021-05-22 17:08:42,482 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2021-05-22 17:08:42,499 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2021-05-22 17:08:42,503 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2021-05-22 17:08:42,507 INFO o.a.j.s.SaveService: Loading file: /Users/dilipkumar/StreamLitPOC/DummySampler.jmx
+2021-05-22 17:08:42,574 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2021-05-22 17:08:42,574 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2021-05-22 17:08:42,575 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2021-05-22 17:08:42,575 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2021-05-22 17:08:42,590 INFO o.a.j.JMeter: Creating summariser <summary>
+2021-05-22 17:08:42,595 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2021-05-22 17:08:42,600 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-05-22 17:08:42,600 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2021-05-22 17:08:42,607 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2021-05-22 17:08:42,608 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2021-05-22 17:08:42,923 INFO o.a.j.JMeter: Running test (1621683522923)
+2021-05-22 17:08:42,939 INFO o.a.j.e.StandardJMeterEngine: No enabled thread groups found
+2021-05-22 17:08:42,939 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2021-05-22 17:08:42,940 INFO o.a.j.r.Summariser: summary =      0 in 00:00:00 = ******/s Avg:     0 Min: 9223372036854775807 Max: -9223372036854775808 Err:     0 (0.00%)
